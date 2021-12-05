@@ -1,0 +1,49 @@
+body {
+  font-family: "Lato", serif;
+  font-size: 100%;
+  line-height: 175%;
+  margin: 0 0 0;
+  background-color: #B9E6D8;
+}
+header {
+  margin-top: 0;
+  padding: 2em 1em 1em 2em;
+  text-align: center;
+  background-color: #D1FAE8 ;
+}
+
+ul {text-align: center;}
+
+a:link {
+	  color: #249A98;
+}
+a:visited {
+	color: #937393;
+}
+a:focus, a:hover {
+	background-color: #fff;
+}
+
+h1 {
+  font: bold 1.5em "Lato", serif;
+  text-shadow: .1em .1em .2em gray;
+  color: #FF5900;
+  text-align: center;
+}
+h2 {
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  text-align: center;
+  color: #c60
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+p {
+  text-align: center;
+  font-style: italic;
+}
